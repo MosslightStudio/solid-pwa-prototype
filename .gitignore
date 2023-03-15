@@ -53,3 +53,4 @@ __fixtures__/custom-modules-dir/patches/
 dist/
 dev-dist/
 .env
+*.report.html
