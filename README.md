@@ -6,5 +6,12 @@
 <a href="https://www.solidjs.com/"><img src="https://img.shields.io/github/package-json/dependency-version/MosslightStudio/solid-pwa-prototype/solid-js?filename=client%2Fpackage.json" alt="Powered by Vite PWA"><a/>
 <a href="https://expressjs.com/"><img src="https://img.shields.io/github/package-json/dependency-version/MosslightStudio/solid-pwa-prototype/express" alt="express-js version"><a/>
 </p>
+
 ## Usage
+Ensure [pnpm](https://pnpm.io/) is installed.
+
+| Command    | Does                                           |
+| ---------- | ---------------------------------------------- |
+| pnpm build | Builds client application and outputs to dist  |
+| pnpm start | Starts express server on http://localhost:3040 |
 
