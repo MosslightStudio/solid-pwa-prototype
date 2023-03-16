@@ -15,3 +15,7 @@ Ensure [pnpm](https://pnpm.io/) is installed.
 | pnpm build | Builds client application and outputs to dist  |
 | pnpm start | Starts express server on http://localhost:3040 |
 
+| Current routes |
+| -------------- |
+| /about         |
+| /profile       |
