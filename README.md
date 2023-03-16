@@ -9,7 +9,7 @@
 
 ## Description
 A prototype template for creating a [PWA](https://web.dev/learn/pwa/progressive-web-apps/)
-using solid-js and serving them using express-js.
+using SolidJS and serving them using ExpressJS.
 
 ## Usage
 Ensure [pnpm](https://pnpm.io/) is installed.
@@ -19,9 +19,19 @@ Ensure [pnpm](https://pnpm.io/) is installed.
 | pnpm build | Builds client application and outputs to dist  |
 | pnpm start | Starts express server on http://localhost:3040 |
 
----
+
 
 | Current routes |
 | -------------- |
 | /about         |
 | /profile       |
+
+
+## Credits
+
+- [SolidJS](https://github.com/solidjs/solid) - Reactive Javascript UI library
+- [TailwindCSS](https://tailwindcss.com/) - For all the styles
+- [Vite](http://vitejs.dev/) - For the bundler / dev server
+- [pnpm](https://pnpm.io) - The package manager
+- [Vite PWA](https://vite-plugin-pwa.netlify.app/) - For PWA functionality
+- [ExpressJS](https://expressjs.com) - NodeJS web framework
